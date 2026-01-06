@@ -4,7 +4,7 @@
 
 Sou desenvolvedor em formação, cursando **Egngenharia de Software na Estácio de Sá**, com base técnica em programação pela **Alura**. Tenho foco em **desenvolvimento web** e experiência prática por meio de projetos e criação de conteúdo educacional propostos por cusros realizados na plataforma da **Alura - Cusros**.
 
-Busco oportunidades para aplicar meus conhecimentos, aprender com times experientes e evoluir profissionalmente. Se conecte com meu "[Linkedin](https://www.linkedin.com/in/abilio-ferraz-235895216/)"
+Busco oportunidades para aplicar meus conhecimentos, aprender com times experientes e evoluir profissionalmente. Se conecte com meu "[Linkedin](https://www.linkedin.com/in/abilio-ferraz-235895216/)
 
 <p align="left">
     <a href="https://github.com/abilioferraz?tab=repositories&sort=stargazers">
@@ -83,3 +83,19 @@ Busco oportunidades para aplicar meus conhecimentos, aprender com times experien
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=abilioferraz&theme=dark"
+    height="165"
+  />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abilioferraz&theme=github-dark"
+    height="165"
+  />
+</p>
