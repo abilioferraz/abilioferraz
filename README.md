@@ -89,13 +89,6 @@ Busco oportunidades para aplicar meus conhecimentos, aprender com times experien
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=abilioferraz&theme=dark"
-    height="165"
-  />
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=abilioferraz&theme=github-dark"
-    height="165"
-  />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=abilioferraz&theme=dark)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abilioferraz&theme=github-dark)
