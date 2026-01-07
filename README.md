@@ -25,7 +25,7 @@ Busco oportunidades para aplicar meus conhecimentos, aprender com times experien
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias Conhecidas
 
 <img 
     align="left" 
