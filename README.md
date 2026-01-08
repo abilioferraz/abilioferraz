@@ -85,6 +85,8 @@ Minha trajetória anterior em Engenharia me trouxe forte **pensamento analítico
 
 👉 **Confira meus projetos fixados abaixo ⬇️**
 
+💻 [Meu Portifólio](https://abilioferraz.github.io/portifolio/) - Pagina criada para demonstrar minhas *soft's skills*. 
+
 💻 Landing Page - Produtora de Eventos **[Nexo Stage](https://projeto-03-portifolionexo.vercel.app/)**
 
 ---
