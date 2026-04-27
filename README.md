@@ -85,7 +85,7 @@ Minha trajetória anterior em Engenharia me trouxe forte **pensamento analítico
 
 👉 **Confira meus projetos fixados abaixo ⬇️**
 
-💻 [Meu Portifólio]([https://abilioferraz.github.io/portifolio/](https://my-portifolio-geek.vercel.app/)) - Pagina criada para demonstrar minhas *soft's skills*. 
+💻 [Meu Portifólio](https://my-portifolio-geek.vercel.app/) - Pagina criada para demonstrar minhas *soft's skills*. 
 
 
 
